@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="triangle" size="100.000000 100.000000" />
+    <ImageTarget name="rectangle_long" size="100.000000 100.000000" />
+    <ImageTarget name="rectangle" size="100.000000 100.000000" />
+    <ImageTarget name="Circle" size="100.000000 100.000000" />
+    <ImageTarget name="Block" size="100.000000 56.483517" />
+    <ImageTarget name="Sphere" size="100.000000 94.029854" />
+    <ImageTarget name="Cube" size="100.000000 98.695656" />
+    <ImageTarget name="Tabung" size="100.000000 128.000000" />
+  </Tracking>
+</QCARConfig>
